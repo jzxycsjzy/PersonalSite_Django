@@ -1,5 +1,5 @@
 # PersonalSite_Django
 
 ## Dependencies
-python
+python  
 django
